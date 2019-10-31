@@ -1,1 +1,1 @@
-del *.log;*.aux;*.synctex.gz /S
+del *.log;*.aux;*.synctex.gz;*.synctex.gz(busy) /S
